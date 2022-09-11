@@ -1,2 +1,2 @@
 # Dictionary_Learning
-Codes used to solve the Dictionary LEarning problem
+Codes used to solve the Dictionary Learning problem
